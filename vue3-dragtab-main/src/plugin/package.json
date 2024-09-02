@@ -1,0 +1,14 @@
+{
+  "name": "vue3-dragtab",
+  "version": "1.0.0",
+  "description": "一个配合vue-router的拖拽式面包屑导航",
+  "main": "index.js",
+  "keywords": [
+    "vue3",
+    "vue-cli",
+    "drag",
+    "tab"
+  ],
+  "author": "AndrewWang",
+  "license": "ISC"
+}
